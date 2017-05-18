@@ -73,6 +73,8 @@ priz:
 
 {% include feature_row id="feature_row2" type="left" %}
 
+{% include video id="NrYdcRQLD9g" provider="youtube" %}
+
 ## Вы получите:
 
 * ценные знания и рекомендации о том, как найти перспективную бизнес-идею и команду для реализации проекта;
