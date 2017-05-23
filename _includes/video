@@ -7,6 +7,8 @@
   <iframe src="http://player.vimeo.com/video/{{ video_id }}" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 {% elsif video_provider == "youtube" %}
   <iframe src="https://www.youtube.com/embed/{{ video_id }}" frameborder="0" allowfullscreen></iframe>
+{% elsif video_provider == "vk" %}
+  <iframe src="//vk.com/video_ext.php?{{ video_id }}" width="853" height="480" frameborder="0" allowfullscreen></iframe>
 {% endif %}
 </div>
 <br />
