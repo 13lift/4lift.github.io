@@ -1,7 +1,7 @@
 ---
-title: "Startup Day в Стерлитамаке"
-layout: hack
-permalink: /strstartup/
+title: "Co-working в Стерлитамаке"
+layout: coworking
+permalink: /coworking/
 date: 2017-05-19T11:48:41-04:00
 header:
   overlay_color: "#000"
@@ -16,8 +16,8 @@ header:
 
 feature_row2:
   - image_path: https://pp.userapi.com/c638718/v638718550/376bc/tRneyCM9lT4.jpg
-    alt: "startup"
-    title: "Startup Day"
+    alt: "coworking"
+    title: "Co-working"
     excerpt: '19 мая 2017 года в Стерлитамаке пройдёт мероприятие для основателей технологических стартапов, авторов инновационных проектов и лиц, которые только хотят реализовать себя в сфере инновационно-технологического и интернет-предпринимательства. Организатором мероприятия выступает бизнес-акселератор LIFT при Стерлитамакском филиале БашГУ. Участие — бесплатное.'
     # url: "#test-link"
     # btn_label: "Read More"
