@@ -25,11 +25,11 @@ feature_row:
     btn_label: "Подробнее"
 
   - image_path: coworking.jpg
-    alt: "Коворкинг-центр"
-    title: "Коворкинг-центр"
+    alt: "Коворкинг-центр 13 ЭТАЖ"
+    title: "Коворкинг-центр 13 ЭТАЖ"
     excerpt: "Мы оборудуем для резидентов LIFT коворкинг-центр, иначе, коллективный офис, организованный по принципу открытого пространства."
-    # url: "/hub/"
-    # btn_label: "Learn More"
+    url: "http://13lift.tilda.ws"
+    btn_label: "Подробнее"
 
 github:
   - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
