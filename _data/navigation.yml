@@ -3,11 +3,8 @@ main:
   # - title: "Quick-Start Guide"
   #   url: /docs/quick-start-guide/
 
-  - title: "Startup Day"
-    url: /strstartup/
-
-  - title: "#STRHACK1"
-    url: /strhack1/
+  - title: "Коворкинг"
+    url: 13lift.tilda.ws
 
   - title: "Блог"
     url: /year-archive/
