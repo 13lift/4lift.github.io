@@ -12,7 +12,7 @@ sidebar:
   - title: "Марина Григорьева"
   # image: http://placehold.it/350x250
   # image_alt: "logo"
-    text: "Со-основатель акселератора LIFT и бизнес-тренер"
+    text: "Специалист по стратегическому планированию СФ БашГУ,"
   - title: "Контакты"
   - text: "[vk.com](https://vk.com/id296656139)"
   - text: "[facebook.com](https://www.facebook.com/profile.php?id=100010615158719)"
