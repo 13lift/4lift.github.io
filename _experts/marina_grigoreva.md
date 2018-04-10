@@ -1,6 +1,6 @@
 ---
 title: "Марина Григорьева"
-excerpt: "Со-основатель акселератора LIFT и бизнес-тренер"
+excerpt: "Специалист по стратегическому планированию СФ БашГУ"
 header:
   # image: https://pp.vk.me/c627720/v627720550/20f7e/QxG77575mTQ.jpg
   # teaser: foo-bar-identity-th.jpg
@@ -12,7 +12,7 @@ sidebar:
   - title: "Марина Григорьева"
   # image: http://placehold.it/350x250
   # image_alt: "logo"
-    text: "Специалист по стратегическому планированию СФ БашГУ,"
+    text: "Специалист по стратегическому планированию СФ БашГУ"
   - title: "Контакты"
   - text: "[vk.com](https://vk.com/id296656139)"
   - text: "[facebook.com](https://www.facebook.com/profile.php?id=100010615158719)"
